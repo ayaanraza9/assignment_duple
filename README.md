@@ -10,5 +10,5 @@ Api - Weather Stack Api.
 
 ## Screenshots
 
-![Preview](https://ibb.co/6wrg36N)
+[Preview](https://ibb.co/6wrg36N "Preview")
 
